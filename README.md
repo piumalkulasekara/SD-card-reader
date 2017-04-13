@@ -20,4 +20,7 @@ https://github.com/isramos/mico-shield/blob/master/libraries/SimpleSDAudio/
  *change manual to output mode or change in SimpleSDAudio.h 
  > ** may collide with eth-shield cs-pin. Move eth-cs-pin or use only mono mode
  
+ ]]></content>
+  <tabTrigger>readme</tabTrigger>
+</snippet>
 
