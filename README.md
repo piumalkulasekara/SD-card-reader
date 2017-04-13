@@ -30,7 +30,7 @@ https://github.com/isramos/mico-shield/blob/master/libraries/SimpleSDAudio/
 > |                  |   5    SCK           yes                     |
 > |                  |   6    GND           -                     SD-Pin
 > |                  |   7    MISO          no                                 
-> |                  |   8    not connect   -          Level shifting network 
+> |                  |   8    not connect   -          Level shifting network  
 > +------------------+   9    not connect   -             for 5V Arduinos
  
 
